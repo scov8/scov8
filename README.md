@@ -11,9 +11,9 @@
 # 📊 GitHub Stats:
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=scov8&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/> </a><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=scov8&theme=dark&hide_border=true)<br/>
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GigiLoria5&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scov8&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/> </a>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=scov8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigiloria5&label=Profile%20views&color=0e75b6&style=flat" alt="gigiloria5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scov8&label=Profile%20views&color=0e75b6&style=flat" alt="scov8" /> </p>
